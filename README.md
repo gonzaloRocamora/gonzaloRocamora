@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with C.
 - 💬 Ask me about 
 - 📫 How to reach me: ...
-- My gola for 2022 => Develop MERN stack projects, suach as an online ticket commerce.
-- ⚡ Fun fact: I am a wine lover and play guitar since im 15 years old.
+- My goal for 2022 => Develop MERN stack projects, suach as an online ticket commerce.
+- ⚡ Fun fact: I´ve been playing guitar for more than 10 years.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzaloRocamora&theme=radical)
