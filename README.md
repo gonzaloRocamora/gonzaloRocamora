@@ -5,7 +5,7 @@ I was born in Argentina in 1992.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front End Development. 
-- 🌱 I’m currently learning C and NodeJs.
+- 🌱 I’m currently learning C.
 - 👯 I’m looking to collaborate with content creators and back end developers.
 - 🤔 I’m looking for help with C.
 - 💬 Ask me about 
