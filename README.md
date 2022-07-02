@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - My goal for 2022 => Develop MERN stack projects, suach as an online ticket commerce.
 - ⚡ Fun fact: I´ve been playing guitar for more than 10 years.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzaloRocamora&theme=radical)
+[![grocamor's 42 stats](https://badge42.vercel.app/api/v2/cl53s54kj001109mfq5594p2y/stats?cursusId=21&coalitionId=206)](https://github.com/JaeSeoKim/badge42)
