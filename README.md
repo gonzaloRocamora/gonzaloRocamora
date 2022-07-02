@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C.
 - 👯 I’m looking to collaborate with content creators and back end developers.
 - 🤔 I’m looking for help with C.
-- 💬 Ask me about 
-- 📫 How to reach me: ...
+- 📫 How to reach me: gonza.rocamora@gmail.com 
 - My goal for 2022 => Develop MERN stack projects, suach as an online ticket commerce.
 - ⚡ Fun fact: I´ve been playing guitar for more than 10 years.
 
